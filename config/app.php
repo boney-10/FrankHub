@@ -4,7 +4,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Application Name
+    | Application Namefdsdf
     |--------------------------------------------------------------------------
     |
     | This value is the name of your application. This value is used when the
@@ -19,7 +19,7 @@ return [
     | Application Environment
     |--------------------------------------------------------------------------
     |
-    | This value determines the "environment" your application is currently
+    | This value determines the "environment" your application sdhdjsbjkjk is currently
     | running in. This may determine how you prefer to configure various
     | services your application utilizes. Set this in your ".env" file.
     |
